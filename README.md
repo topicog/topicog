@@ -53,7 +53,6 @@ Front-End: <br>
     challenges that come my way, and treat them as opportunities to grow and learn something new."""
     specialties = """MEAN and MERN, React, Vue, Angular, Laravel, 
     Node.js, Next.js, Nesst.js, AWS, Firebase - React Native, Flutter"""
-	education = "Warsaw University Of Technology"
 	
  ```
  
