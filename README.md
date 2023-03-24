@@ -56,6 +56,3 @@ Front-End: <br>
 	
  ```
  
- 
-
-Reach me: <br>[![Gmail Badge](https://img.shields.io/badge/-topic.ognjen.bos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:topic.ognjen.bos@gmail.com)](mailto:topic.ognjen.bos@gmail.com) 
